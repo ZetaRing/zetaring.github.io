@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-# locale                   : "en-US"
+locale                   : # "en-US"
 site_theme               : "default"
-# title                    : "Your Name / Site Title"
-# title_separator          : "-"
+title                    : # "Your Name / Site Title"
+title_separator          : # "-"
 name                     : &name "Zheng, Zishuo"
 description              : &description "PhD Student in Computer Science and Engineering"
 url                      : https://zetaring.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,19 +26,19 @@ author:
   name             : "Zheng, Zishuo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science and Engineering"
-  # location         : "Earth"
+  location         : # "Earth"
   employer         : "The Ohio State University"
-  # uri              : # URL
-  # email            : "none@example.org" 
+  uri              : # URL
+  email            : # "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=5qlNlOQAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "zishuo-zheng-a52b41170"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
