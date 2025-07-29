@@ -26,10 +26,10 @@ author:
   name             : "Zheng, Zishuo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science and Engineering"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  # location         : "Earth"
+  employer         : "The Ohio State University"
+  # uri              : # URL
+  # email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
