@@ -15,9 +15,7 @@ My industry experience includes an internship at Microsoft Research Asia (2018) 
 
 Publications
 ======
-## Research
-
-<div style="display:flex;align-items:center;margin-bottom:30px;">
+<div style="display:flex;align-items:center;margin-bottom:30px;style="line-height:1.2;" >
   <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
   <div class="paper-info">
     <h3>MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</h3>
