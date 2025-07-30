@@ -18,7 +18,7 @@ Publications
 ## Research
 
 <div style="display:flex;align-items:center;margin-bottom:30px;">
-  <img src="images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
+  <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
   <div>
     <h3>MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</h3>
     <p><strong>Yining Hong, <u>Zishuo Zheng</u>, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan</strong><br>
