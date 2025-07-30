@@ -19,7 +19,7 @@ Publications
 <div style="display:flex;align-items:center;margin-bottom:30px;">
   <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
   <div class="paper-info">
-    <h3>MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</h3>
+    <h3 style="margin-top:0;">MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</h3>
     Yining Hong, <strong>Zishuo Zheng</strong>, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan<br>
     <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2024<br>
     <a href="https://arxiv.org/abs/2401.08577" target="_blank">[Arxiv]</a> | 
