@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋 , I am a 2nd-Year CSE PhD student  at The Ohio State University, advised by Prof. <a href="https://sites.google.com/view/sachinkumar" target="_blank">Sachin Kumar</a>. My research interests focus on the safety of large language models, multimodality, and embodied agents.
+Hi👋 , I am a 2nd-Year CSE PhD student at The Ohio State University, advised by Prof. <a href="https://sites.google.com/view/sachinkumar" target="_blank">Sachin Kumar</a>. My research interests focus on the safety of large language models, multimodality, and embodied agents.
 
 I previously completed my M.S. in Computational Biology at the Institute of Neuroscience, Chinese Academy of Sciences (2024), where I conducted research in computational neuroscience 🧠 with a focus on memory and sleep. I obtained my B.Sc. in CSE from Xi’an Jiaotong University in 2019.
 
