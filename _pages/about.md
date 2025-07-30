@@ -16,24 +16,6 @@ My industry experience includes an internship at Microsoft Research Asia (2018) 
 Publications
 ======
 
-<table style="border-collapse: separate; border-spacing: 2em; width:100%;">
-  <tbody>
-    <tr>
-      <td style="border:none; vertical-align:top; width:250px;">
-        <img src="../images/multiply.png" width="400">
-      </td>
-      <td style="border:none; vertical-align:top; line-height:1.2;">
-        <b>MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</b><br>
-        Yining Hong, <strong>Zishuo Zheng</strong>, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan<br>
-        <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2024
-        <a href="https://arxiv.org/abs/2401.08577" target="_blank">[Arxiv]</a> | 
-        <a href="https://github.com/UMass-Embodied-AGI/MultiPLY" target="_blank">[Github]</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 <div style="display:flex;align-items:center;margin-bottom:30px;">
   <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
   <div class="paper-info">
