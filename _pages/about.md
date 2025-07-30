@@ -19,7 +19,7 @@ Publications
 <table style="border-collapse: separate; border-spacing: 2em; width:100%;">
   <tbody>
     <tr>
-      <td style="border:none; vertical-align:top; width:400px;">
+      <td style="border:none; vertical-align:top; width:250px;">
         <img src="../images/multiply.png" width="400">
       </td>
       <td style="border:none; vertical-align:top; line-height:1.2;">
