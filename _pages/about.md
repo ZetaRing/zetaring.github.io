@@ -38,11 +38,9 @@ Publications
   <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
   <div class="paper-info">
     <h3>MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World</h3>
-    <p>Yining Hong, <strong>Zishuo Zheng</strong>, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan</p>
-    <p><em>Conference on Computer Vision and Pattern Recognition (CVPR), 2024</em></p>
-    <p>
-      <a href="https://arxiv.org/abs/2401.08577" target="_blank">[Arxiv]</a> | 
-      <a href="https://github.com/UMass-Embodied-AGI/MultiPLY" target="_blank">[Github]</a>
-    </p>
+    Yining Hong, <strong>Zishuo Zheng</strong>, Peihao Chen, Yian Wang, Junyan Li, Chuang Gan<br>
+    <i>Conference on Computer Vision and Pattern Recognition (CVPR)</i>, 2024<br>
+    <a href="https://arxiv.org/abs/2401.08577" target="_blank">[Arxiv]</a> | 
+    <a href="https://github.com/UMass-Embodied-AGI/MultiPLY" target="_blank">[Github]</a>
   </div>
 </div>
