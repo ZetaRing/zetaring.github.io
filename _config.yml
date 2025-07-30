@@ -23,7 +23,7 @@ repository               : "ZetaRing/zetaring.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zheng, Zishuo"
+  name             : # "Zheng, Zishuo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science and Engineering"
   location         : # "Earth"
