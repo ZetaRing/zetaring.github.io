@@ -15,6 +15,15 @@ My industry experience includes an internship at Microsoft Research Asia (2018) 
 
 Publications
 ======
+<div style="display:flex;align-items:center;margin-bottom:30px;">
+  <img src="../images/verih.png" alt="VerIH" style="width:250px;margin-right:20px;">
+  <div class="paper-info">
+    <h3 style="margin-top:0;">Reasoning Up the Instruction Ladder for Controllable Language Models</h3>
+    <strong>Zishuo Zheng</strong>, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar<br>
+    <i>NeurIPS Workshop, 2025. [Under review at ICLR]</i><br>
+    <a href="https://drive.google.com/file/d/1SA9e6EpqMRQh7GdMel3Z8MsLS-_MV5n8/view?usp=drive_link" target="_blank">[Paper]</a>
+  </div>
+</div>
 
 <div style="display:flex;align-items:center;margin-bottom:30px;">
   <img src="../images/multiply.png" alt="MultiPLY" style="width:250px;margin-right:20px;">
@@ -26,3 +35,5 @@ Publications
     <a href="https://github.com/UMass-Embodied-AGI/MultiPLY" target="_blank">[Github]</a>
   </div>
 </div>
+
+
