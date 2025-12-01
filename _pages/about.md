@@ -21,7 +21,7 @@ Publications
     <h3 style="margin-top:0;">Reasoning Up the Instruction Ladder for Controllable Language Models</h3>
     <strong>Zishuo Zheng</strong>, Vidhisha Balachandran, Chan Young Park, Faeze Brahman, Sachin Kumar<br>
     <i>NeurIPS Workshop, 2025 [Under review at ICLR]</i><br>
-    <a href="https://drive.google.com/file/d/1SA9e6EpqMRQh7GdMel3Z8MsLS-_MV5n8/view?usp=drive_link" target="_blank">[Paper]</a>
+    <a href="https://arxiv.org/abs/2511.04694" target="_blank">[Paper]</a>
   </div>
 </div>
 
